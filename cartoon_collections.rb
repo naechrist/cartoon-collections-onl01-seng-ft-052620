@@ -25,5 +25,3 @@ else
 end
 end
 end
-Array 
-no_cheese
