@@ -19,7 +19,10 @@ end
 
 def find_the_cheese(array)
 array.include? do |cheese|
-cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
+if cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
+else 
+  cheese != "cheddar" 
+end
 end
 end
 Array 
