@@ -17,11 +17,4 @@ def long_planeteer_calls(array)
  end
 end
 
-def find_the_cheese(array)
-array.include? do |cheese|
-if cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
-else
-  find_the_cheese(no_cheese)
-end
-end
-end
+
