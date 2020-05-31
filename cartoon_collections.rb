@@ -22,4 +22,4 @@ array.include? do |cheese|
 cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
 end
 end
-find_the_cheese(array)
+find_the_cheese(Array)
