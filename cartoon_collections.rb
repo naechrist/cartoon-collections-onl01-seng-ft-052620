@@ -22,4 +22,3 @@ array.include? do |cheese|
 cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
 end
 end
-find_the_cheese(cheddar)
