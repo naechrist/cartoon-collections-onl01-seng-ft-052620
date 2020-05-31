@@ -17,4 +17,5 @@ def long_planeteer_calls(array)
  end
 end
 
-
+cheese_types = ["cheddar", "gouda", "camembert"]
+snacks = ["crackers", "gouda", "thyme"]
